@@ -17,6 +17,7 @@ jspm_packages/
 # Vite & build caches
 .vite/
 .cache/
+.wrangler/
 
 # Production build outputs
 dist/
